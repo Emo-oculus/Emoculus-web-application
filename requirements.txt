@@ -6,7 +6,7 @@ pandas
 seaborn
 streamlit
 streamlit_webrtc 
-python_version == 3.7.1
+python_version == 3.7.9
 
 
 
