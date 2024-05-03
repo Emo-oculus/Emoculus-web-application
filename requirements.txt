@@ -6,4 +6,5 @@ pandas
 seaborn
 streamlit
 streamlit_webrtc 
+python_version=="3.8"
 
