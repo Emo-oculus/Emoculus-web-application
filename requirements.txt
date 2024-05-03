@@ -1,6 +1,3 @@
 numpy
 pandas
 seaborn
-streamlit
-tensorflow.keras
-streamlit_webrtc
