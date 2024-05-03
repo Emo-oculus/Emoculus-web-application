@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+os
+cv2
+keras
+tensorflow
+streamlit
+tensorflow.keras
+streamlit_webrtc
