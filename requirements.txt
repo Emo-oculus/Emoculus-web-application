@@ -1,7 +1,6 @@
 numpy
 pandas
 seaborn
-cv2
 keras
 tensorflow
 streamlit
