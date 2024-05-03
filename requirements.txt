@@ -6,7 +6,7 @@ pandas
 seaborn
 streamlit
 streamlit_webrtc 
-
+model_from_json
 
 
 
