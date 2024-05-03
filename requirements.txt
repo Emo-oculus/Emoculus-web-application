@@ -1,7 +1,7 @@
 tensorflow
 keras
 opencv-python-headless
-numpy=1.21.2
+numpy == 1.21.2
 pandas
 seaborn
 streamlit
