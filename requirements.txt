@@ -1,4 +1,4 @@
-cv2
+openv-python-headless
 numpy
 pandas
 seaborn
