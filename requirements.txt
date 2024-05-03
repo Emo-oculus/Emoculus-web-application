@@ -5,8 +5,7 @@ numpy
 pandas
 seaborn
 streamlit
-streamlit_webrtc
-webrtc_streamer 
+streamlit_webrtc 
 VideoTransformerBase
 RTCConfiguration
 VideoProcessorBase
