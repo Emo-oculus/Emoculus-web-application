@@ -6,3 +6,8 @@ pandas
 seaborn
 streamlit
 streamlit_webrtc
+webrtc_streamer 
+VideoTransformerBase
+RTCConfiguration
+VideoProcessorBase
+WebRtcMode
