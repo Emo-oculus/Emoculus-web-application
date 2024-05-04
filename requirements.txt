@@ -7,6 +7,6 @@ seaborn
 streamlit
 streamlit_webrtc 
 keras.models
-tensorflow=2.16.1
+tensorflow==2.16.1
 
 
