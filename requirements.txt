@@ -1,4 +1,4 @@
-tensorflow==2.2
+tensorflow
 keras
 opencv-python-headless
 numpy
@@ -7,6 +7,6 @@ seaborn
 streamlit
 streamlit_webrtc 
 keras.models
-libgl1-mesa-glx
+tensorflow~=2.13.0 & keras~=2.13.0
 
 
