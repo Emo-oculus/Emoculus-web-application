@@ -8,5 +8,5 @@ streamlit
 streamlit_webrtc 
 keras.models
 tensorflow==2.16.1
-cv2
+opencv-python
 
