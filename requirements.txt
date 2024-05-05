@@ -1,9 +1,9 @@
-tensorflow
-keras
-opencv-python-headless
 numpy
 pandas
 seaborn
+tensorflow
+keras
+opencv-python-headless
 streamlit
 streamlit_webrtc 
 keras.models
